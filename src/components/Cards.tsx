@@ -1,5 +1,5 @@
-import React from "react";
-import { TbCurrencyDollar } from "react-icons/tb";
+import _React from "react";
+
 
 import {
   Card,

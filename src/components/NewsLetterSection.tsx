@@ -1,8 +1,8 @@
-import React from "react";
+import _React from "react";
 import {
   Stack,
   TextField,
-  InputAdornment,
+  
   Box,
   Typography,
   Button,
@@ -10,7 +10,7 @@ import {
   Checkbox,
 } from "@mui/material";
 import { FaPaperPlane } from "react-icons/fa6";
-import { AiOutlineMail } from "react-icons/ai";
+
 
 const NewsLetterSection = () => {
   return (

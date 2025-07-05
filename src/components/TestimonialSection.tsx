@@ -1,4 +1,4 @@
-import React from "react";
+import  _React from "react";
 import { Box, Typography, Avatar, Container, IconButton } from "@mui/material";
 import { MdFormatQuote } from "react-icons/md";
 import { FaLongArrowAltRight } from "react-icons/fa";

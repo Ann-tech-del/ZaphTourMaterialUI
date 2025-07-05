@@ -128,7 +128,7 @@ const Destination = () => {
             direction={"row"}
             sx={{ flexWrap: "wrap", mt: 2, justifyContent: "center", gap: 2 }}
           >
-            {destinationList.map((destination, index) => (
+            {destinationList.map((destination, _index) => (
               <Card
                 variant="outlined"
                 sx={{ width: "400px", bgcolor: "aliceblue" }}
